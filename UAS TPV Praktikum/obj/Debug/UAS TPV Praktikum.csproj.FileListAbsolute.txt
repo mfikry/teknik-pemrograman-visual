@@ -1,0 +1,9 @@
+E:\Tugas Fikry\SEMESTER 4\VISUAL\UAS TPV Praktikum\UAS TPV Praktikum\bin\Debug\UAS TPV Praktikum.exe.config
+E:\Tugas Fikry\SEMESTER 4\VISUAL\UAS TPV Praktikum\UAS TPV Praktikum\bin\Debug\UAS TPV Praktikum.exe
+E:\Tugas Fikry\SEMESTER 4\VISUAL\UAS TPV Praktikum\UAS TPV Praktikum\bin\Debug\UAS TPV Praktikum.pdb
+E:\Tugas Fikry\SEMESTER 4\VISUAL\UAS TPV Praktikum\UAS TPV Praktikum\obj\Debug\UAS TPV Praktikum.csprojResolveAssemblyReference.cache
+E:\Tugas Fikry\SEMESTER 4\VISUAL\UAS TPV Praktikum\UAS TPV Praktikum\obj\Debug\UAS_TPV_Praktikum.Form1.resources
+E:\Tugas Fikry\SEMESTER 4\VISUAL\UAS TPV Praktikum\UAS TPV Praktikum\obj\Debug\UAS_TPV_Praktikum.Properties.Resources.resources
+E:\Tugas Fikry\SEMESTER 4\VISUAL\UAS TPV Praktikum\UAS TPV Praktikum\obj\Debug\UAS TPV Praktikum.csproj.GenerateResource.Cache
+E:\Tugas Fikry\SEMESTER 4\VISUAL\UAS TPV Praktikum\UAS TPV Praktikum\obj\Debug\UAS TPV Praktikum.exe
+E:\Tugas Fikry\SEMESTER 4\VISUAL\UAS TPV Praktikum\UAS TPV Praktikum\obj\Debug\UAS TPV Praktikum.pdb
